@@ -5,6 +5,8 @@ Descripton is .txt file.
 Solution is .exe file. (Compiled solution on Visual Studio or smth this)
 Tasks, solutions and descriptions are saving in your own database, such as MySql or PostgeSql.
 You can configure your own sounds.
+The whole app has made on WinForms.
+In folder "SimpleWork" I've made more simple some things, such as playing sound.
 Folder "temp" in "SimpleWork"is including pure sql without entity framework. It's not useful now.
 
 I hope you this app can help someone <3
